@@ -1,5 +1,5 @@
 # Staging-Instance
 
-CLI to Connect to GCP Staging Instance
+CLI to Connect to Exchange Staging Instance
 
-GCPConnect.exe <Creds>
+Exchange.exe <Creds>
